@@ -1,0 +1,6 @@
+name: Restart
+author: Shabzz102
+version: 2.0.0
+description: Restarts Server ever {Certain minutes}
+api: [3.0.0-ALPHA12, 3.0.0, 3.0.1, 3.0.2, 4.0.0]
+main: Shabzz102\Restart\Restart
