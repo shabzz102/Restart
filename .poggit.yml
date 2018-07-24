@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/shabzz102/Restart
+branches:
+- master
+projects:
+  Restart:
+    path: ""
+...
