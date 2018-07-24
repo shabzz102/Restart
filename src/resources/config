@@ -1,0 +1,7 @@
+
+
+# The below config is the auto restart time in minutes
+restart-time: 60
+
+# The below config is the message that will be sent when the server restarts
+restart-message: "Server has been restarted"
