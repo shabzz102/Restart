@@ -1,2 +1,2 @@
 # Restart
-Restarts your mcpe server
+Restart is a plugin that allows your server to be automatically restarted at set intervals. It also allows automatic restarting of your server if memory usage is overloaded(peak usage can be configured in config.yml). There are also configurable messages that you can change in config.yml. Besides those, you can choose to start/stop the timer, so you don't have to worry about the server restarting in the middle of something important.
